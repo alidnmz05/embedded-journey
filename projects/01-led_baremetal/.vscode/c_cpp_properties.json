@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "STM32H7",
+            "compilerPath": "/usr/bin/arm-none-eabi-gcc",
+            "cStandard": "c11",
+            "intelliSenseMode": "gcc-arm"
+        }
+    ],
+    "version": 4
+}
